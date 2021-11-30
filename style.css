@@ -1,6 +1,6 @@
 body {   
     background-color: #fff2e6;
-    color:#2E1263;
+    color: #4a4a4a;;
     font-weight: 200;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -9,11 +9,11 @@ body {
     margin: 30px auto 0;
     padding: 20px 25px;
     background-color: #fff2e6;
-    color: #2E1263;
+    color: #4a4a4a;
     font-size: 14px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    border: 1px solid #2E1263;
+    border: 1px solid #4a4a4a;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 4px;
@@ -25,7 +25,7 @@ p {
 
 .button:hover { 
     transition: 0.3s;
-    background-color:#2E1263;
+    background-color:#4a4a4a;
     color: #fff2e6;
     text-decoration: underline;
 }
